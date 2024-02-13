@@ -64,7 +64,7 @@ CREATE TABLE `etudiant` (
 
 LOCK TABLES `etudiant` WRITE;
 /*!40000 ALTER TABLE `etudiant` DISABLE KEYS */;
-INSERT INTO `etudiant` VALUES (1,'Betty Spaghetti','Betty',23,'betty.ving@laplateforme.io'),(2,'jeean Steak','Chuck',45,'chuck.steak@laplateforme.io'),(3,'John Doe','John',18,'john.doe@laplateforme.io'),(4,'Binkie Barnes','Binkie',16,'binkie.barnes@laplateforme.io'),(5,'Gertrude Dupuis','Gertrude',20,'gertrude.dupuis@laplateforme.io'),(6,'Dupuis','Martin',18,'martin.dupuis@laplateforme.io');
+INSERT INTO `etudiant` VALUES (1,'Betty ving','Betty',23,'betty.ving@laplateforme.io'),(2,'jeean Steak','Chuck',45,'chuck.steak@laplateforme.io'),(3,'John Doe','John',18,'john.doe@laplateforme.io'),(4,'Binkie Barnes','Binkie',16,'binkie.barnes@laplateforme.io'),(5,'Gertrude Dupuis','Gertrude',20,'gertrude.dupuis@laplateforme.io'),(6,'Dupuis','Martin',18,'martin.dupuis@laplateforme.io');
 /*!40000 ALTER TABLE `etudiant` ENABLE KEYS */;
 UNLOCK TABLES;
 
